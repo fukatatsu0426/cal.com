@@ -1,0 +1,11 @@
+packages:
+  - 'apps/*'
+  - 'apps/api/*'
+  - 'packages/*'
+  - 'packages/embeds/*'
+  - 'packages/features/*'
+  - 'packages/app-store/*'
+  - 'packages/app-store/ee/*'
+  - 'packages/platform/*'
+  - 'packages/platform/examples/base'
+  - 'example-apps/*' 
